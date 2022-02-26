@@ -1,19 +1,5 @@
     ========================================================
 
-This project is done by 5 UoB students: 
+This project is done by a UoB students: 
     - Mahdi Abbas Mulla Ali - 20180401.
-    - Moh'd Bader - 20183826.
-    - Husain Abdullah - 20161685.
-    - Husain Hasan - 20167582.
-    - Hasan Fardan - 20181220.
-
     ========================================================
-
-    Paged & Features: 
-     - Settings.
-     - Dashboard.
-     - Statistics.
-     - Logs.
-     - Users.
-     - Comments.
-     
