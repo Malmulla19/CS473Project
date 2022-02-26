@@ -1,4 +1,5 @@
 <?php
+#this is a profile page
 $title="Profile Page";
 include("init.php");
 $USR = $_SESSION['username'];
